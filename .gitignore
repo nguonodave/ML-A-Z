@@ -1,3 +1,6 @@
 /data prep/*.py
+*.py
 /data prep/.ipynb_checkpoints
+/regression/Simple Linear/.ipynb_checkpoints
 /data prep/.DS_Store
+.DS_Store
